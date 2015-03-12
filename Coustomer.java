@@ -1,0 +1,4 @@
+class Coustomer{
+	public Coustomer(){
+	}
+}
